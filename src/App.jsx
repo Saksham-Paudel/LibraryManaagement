@@ -2,7 +2,8 @@ import {BrowserRouter,Routes,Route} from "react-router-dom"
 import Home from "./pages/home/Home"
 import SingleBook from "./pages/singleBook/SingleBook"
 import AddBook from "./pages/addBook/AddBook"
-import EditBook from "./pages/editBook/editBook"
+import EditBook from "./pages/editBook/EditBook";
+
 
 const App = () => {
 
